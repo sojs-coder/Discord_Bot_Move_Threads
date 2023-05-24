@@ -1,6 +1,9 @@
 Setting Up a Discord Server and Adding a Bot
 In this tutorial, we'll walk through the process of setting up a Discord server, adding a bot to it, and using the provided code files to create a message moving bot. The bot will create a new thread, delete a specified number of messages, and move them to the thread.
 
+### Note
+> the python script is the only one that is confirmed to work
+
 # Prerequisites
 Before we begin, make sure you have the following:
 
